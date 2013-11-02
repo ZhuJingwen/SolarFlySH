@@ -22,5 +22,7 @@ public:
     ofColor color;
     float radius;
     float born;
+    float energy;
+    
 };
 #endif
