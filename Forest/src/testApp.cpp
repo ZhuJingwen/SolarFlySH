@@ -36,7 +36,7 @@ void testApp::update(){
     //To let the leaf grow when light colleted
     if ((light % 100) == 0) {
         //r = ofRandom(0,300);
-        float a = ofRandom(0,250);
+        float a = ofRandom(0,260);
         float b = ofRandom(0,300);
         Leaf l;
         angle = ofRandom(360);
